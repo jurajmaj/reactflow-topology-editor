@@ -1,0 +1,14 @@
+.handle {
+    width: 8px;
+    height: 8px;
+}
+
+.label {
+    font-size: 15px;
+    height: 14px;
+    line-height: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

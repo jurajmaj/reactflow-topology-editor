@@ -1,0 +1,26 @@
+.panel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    padding: 5px 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    cursor: grab;
+}
+
+.routerIcon {
+    width: 65px;
+    height: 40px;
+    cursor: grab;
+}
+
+.icon:active {
+    cursor: grabbing;
+}
