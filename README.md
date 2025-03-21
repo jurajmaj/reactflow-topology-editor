@@ -6,6 +6,8 @@ This project demonstrates how to build an **interactive canvas web application**
 The application allows users to create network topology diagrams with draggable nodes, customizable edges, and a toolbar for adding new nodes. 
 It serves as a foundation for building more advanced node-based editors, such as workflow editors, data pipelines, or network visualizations.
 
+For a detailed guide on how this application was built, check out my Medium article - [Creating an Interactive Canvas Web Application](https://jurajmaj.medium.com/creating-an-interactive-canvas-web-application-370169aa5de8)
+
 ## Features
 
 - **Custom Nodes**: Includes custom nodes for different network devices (Router, PC, Server) with SVG icons.
@@ -37,7 +39,10 @@ automatically reflected in the browser!
 - Customize the node types, edge styles, and toolbar icons.
 
 ## Resources
-
-Links:
-
+- [Medium Article - Creating an Interactive Canvas Web Application](https://jurajmaj.medium.com/creating-an-interactive-canvas-web-application-370169aa5de8)
 - [React Flow - Docs](https://reactflow.dev)
+
+## Credits:
+- [Source of PC Icon](https://www.reshot.com/free-svg-icons/item/computer-EBZSHLPRTA/)
+- [Source of Router Icon](https://vecta.io/symbols/240/cisco-network-topology-icons-3015/204/router)
+- [Source of Server Icon](https://vecta.io/symbols/62/cisco-security-stealthwatch/19/server)
